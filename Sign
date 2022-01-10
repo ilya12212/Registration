@@ -1,0 +1,8 @@
+package com.company;
+
+public interface Sign {
+    void mines();
+    void plus();
+    void multiply();
+    void  division();
+}
